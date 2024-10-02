@@ -34,6 +34,8 @@ export function navigate(name, params, reset) {
 // });
 
 
+
+
 // //For Background notification trigger
 // messaging().setBackgroundMessageHandler(async remoteMessage => {
 //   console.log('BAckground NOTIFICATION===>', remoteMessage);
